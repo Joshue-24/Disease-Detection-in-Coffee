@@ -1,6 +1,7 @@
 # Detección de Enfermedades en el Café
 
 Este proyecto implementa un sistema de detección de enfermedades en plantas de café utilizando YOLOv8. El modelo es capaz de identificar y clasificar plantas de café en dos categorías: sanas y enfermas.
+![Labview ](cafe/WhatsApp Image 2025-07-30 at 9.18.22 PM.jpeg)
 
 ## Características
 
@@ -40,10 +41,10 @@ Este proyecto implementa un sistema de detección de enfermedades en plantas de 
 ## Ejemplos
 
 ### Planta de café sana
-![Café sano](detec-cafe.v1i.yolov8/train/images/17273755585210268_jpg.rf.1f666c5aaf8954fedb68566299f0033c.jpg)
+![Café sano](cafe/WhatsApp Image 2025-07-30 at 9.18.22 PM (1).jpeg)
 
 ### Planta de café enferma
-![Café enfermo](detec-cafe.v1i.yolov8/train/images/17273755580498214_jpg.rf.47f489c0a956a617b14effb8b4c505de.jpg)
+![Café enfermo](cafe/WhatsApp Image 2025-07-30 at 9.18.22 PM (2).jpeg)
 
 ## Estructura del Proyecto
 
