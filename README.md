@@ -41,10 +41,10 @@ Este proyecto implementa un sistema de detección de enfermedades en plantas de 
 ## Ejemplos
 
 ### Planta de café sana
-![Café sano](cafe/WhatsApp Image 2025-07-30 at 9.18.22 PM (1).jpeg)
+![Café sano]('cafe/WhatsApp Image 2025-07-30 at 9.18.22 PM (1).jpeg')
 
 ### Planta de café enferma
-![Café enfermo](cafe/WhatsApp Image 2025-07-30 at 9.18.22 PM (2).jpeg)
+![Café enfermo]('cafe/WhatsApp Image 2025-07-30 at 9.18.22 PM (2).jpeg')
 
 ## Estructura del Proyecto
 
